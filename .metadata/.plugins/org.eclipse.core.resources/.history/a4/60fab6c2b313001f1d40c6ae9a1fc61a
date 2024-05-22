@@ -1,0 +1,18 @@
+
+package a.b.c;
+
+import java.util.*;
+
+import java.io.*;
+
+class D {
+	int Teste = 305;
+
+	void Teste() {
+		System.out.println(Teste);
+	}
+
+	public static void main(String[] args) {
+		new Teste();
+	}
+}

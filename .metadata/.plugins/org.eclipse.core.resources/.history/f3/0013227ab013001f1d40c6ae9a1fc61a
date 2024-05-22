@@ -1,0 +1,12 @@
+package tests;
+
+public class tst {
+
+	static int x = 1;
+
+	public static void main(String[] x){
+		   
+		    x = 200;
+		    System.out.println(x);
+		  }
+}

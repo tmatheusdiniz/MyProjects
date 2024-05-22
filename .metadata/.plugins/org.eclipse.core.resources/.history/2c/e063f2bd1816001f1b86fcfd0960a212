@@ -1,0 +1,21 @@
+package a.b.c;
+
+import com.sun.tools.javac.Main;
+
+public class HelloWorld {
+
+	public static void main(String md[]) {
+
+		md[0] = "Hello";
+		md[1] = "World";
+
+		HelloWorld.main(md);
+
+		for (int i = 0; i < md.length; i++) {
+
+			System.out.println(md);
+		}
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package tests;
+
+public class ts {
+
+	static int i = 3;
+
+	public static void main(String[] a) {
+		for (new ts().i = 10; new ts().i < 100; new ts().i++) {
+			System.out.println(i);
+		}
+	}
+}

@@ -1,0 +1,12 @@
+package tests;
+
+public class tst {
+
+	static int id = 1;
+
+	public static void main(String[] x){
+		    System.out.println(id);
+		    id = id + 1;
+		    System.out.println(id);
+		  }
+}

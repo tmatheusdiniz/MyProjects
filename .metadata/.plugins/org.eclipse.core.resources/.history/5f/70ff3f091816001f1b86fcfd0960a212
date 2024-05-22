@@ -1,0 +1,16 @@
+package a.b.c;
+
+import com.sun.tools.javac.Main;
+
+public class HelloWorld {
+
+	public static void main(String[] md) {
+		
+		md[0] = "Lucas é gay";
+		
+		HelloWorld.main();
+		
+
+	}
+
+}
